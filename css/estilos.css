@@ -1,0 +1,22 @@
+.header {
+  width: 400px;
+  height: 1000px;
+}
+.header {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  background-color: #1d252c;
+}
+
+.figure {
+  margin: 0;
+}
+
+.flexbox {
+}
+.box {
+  width: 200px;
+  height: 200px;
+  border: 1px solid red;
+}
