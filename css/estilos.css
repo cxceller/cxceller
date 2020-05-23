@@ -1,14 +1,18 @@
 .header {
   width: 400px;
-  height: 1000px;
+  height: 100%px;
 }
 .header {
   display: flex;
   flex-direction: column;
   justify-content: space-between;
   background-color: #1d252c;
+  justify-content: space-between;
 }
 
+.menu {
+  height: inherit;
+}
 .figure {
   margin: 0;
 }
@@ -16,7 +20,7 @@
 .flexbox {
 }
 .box {
-  width: 200px;
-  height: 200px;
+  width: 400px;
+  height: 100%;
   border: 1px solid red;
 }
